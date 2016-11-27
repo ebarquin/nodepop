@@ -4,11 +4,11 @@
 ###Acceso a través del dominio
 
 * [www.eugeniobarquin.com](https://www.eugeniobarquin.com)
-* [API](ec2-34-192-196-196.compute-1.amazonaws.com)
+* [API](http://ec2-34-192-196-196.compute-1.amazonaws.com)
 
 ### Acceso a ficheros estáticos
-* [iphone.png](ec2-34-192-196-196.compute-1.amazonaws.com/images/anuncios/iphone.png)
-* [bici.jpg](ec2-34-192-196-196.compute-1.amazonaws.com/images/anuncios/bici.jpg)
+* [iphone.png](http://ec2-34-192-196-196.compute-1.amazonaws.com/images/anuncios/iphone.png)
+* [bici.jpg](http://ec2-34-192-196-196.compute-1.amazonaws.com/images/anuncios/bici.jpg)
 
 # NodePop
 
